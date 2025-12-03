@@ -1,0 +1,12 @@
+com\example\soap\App.class
+com\example\soap\metrics\SoapMetricsService.class
+com\example\soap\service\ClientSoapService.class
+com\example\soap\annotation\MonitorSoapMethod.class
+com\example\soap\model\Client.class
+com\example\soap\SoapClientServiceApplication.class
+com\example\soap\cache\ClientCacheService.class
+com\example\soap\aop\ClientSoapMonitoringAspect.class
+com\example\soap\config\CxfConfig.class
+com\example\soap\watcher\FileWatcherService.class
+com\example\soap\service\ClientSoapServiceImpl.class
+com\example\soap\watcher\FileWatcherService$1.class
